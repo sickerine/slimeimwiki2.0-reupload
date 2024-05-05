@@ -1,0 +1,490 @@
+{
+    "Special": {
+        "Make Another Move": [
+            "Make another move"
+        ],
+        "Redraw": [
+            "Redraws soul in hand"
+        ],
+        "Self Taunt": [
+            "Chance to make self taunt"
+        ],
+        "Deals Damage": [
+            "Deals"
+        ],
+        "Absorb Secret Skill": [
+            "absorb secret skill"
+        ],
+        "Burn Single": [
+            "Burns a single target"
+        ],
+        "Skill Cost Reset": [
+            "Decreases the skill cost"
+        ]
+    },
+    "From Soul": {
+        "Another Random Character": [
+            "Transfer another random character",
+            "Transfers another random character"
+        ],
+        "Change Own Souls": [
+            "Changes own souls all",
+            "all of his own souls",
+            "all of her own souls",
+            "all of their own souls"
+        ],
+        "Transfer Own Souls": [
+            "Transfers own soul",
+            "Transfer own soul"
+        ],
+        "Soul of Divine Protection": [
+            "Changes Soul of Divine Protection",
+            "Tranfer Soul of Divine Protection",
+            "Tranfers Soul of Divine Protection",
+            "and Soul of Divine Protection"
+        ],
+        "Soul of Secrets": [
+            "Changes Soul of Secrets",
+            "Transfer Soul of Secrets",
+            "Transfers Soul of Secrets",
+            "and Soul of Secrets"
+        ],
+        "Soul of Skills": [
+            "Changes Soul of Skills",
+            "Transfer Soul of Skills",
+            "Transfers Soul of Skills",
+            "and Soul of Skills"
+        ],
+        "Soul of Combos": [
+            "Changes Soul of Combos"
+        ]
+    },
+    "Soul Amount": {
+        "All": [
+            "Changes all of",
+            "Transfers all",
+            "Changes Soul of Secrets into Soul of Divine Protection",
+            "Changes Soul of Secrets into Soul of Skills",
+            "Changes Soul of Divine Protection into Soul of Skills",
+            "Changes Soul of Divine Protection into Soul of Secrets",
+            "Changes Soul of Skills into Soul of Divine Protection",
+            "Changes Soul of Skills into Soul of Secrets"
+            ],
+        "x1": [
+            "x1"
+        ],
+        "x2": [
+            "x2"
+        ],
+        "x3": [
+            "x3"
+        ]
+    },
+    "To Soul": {
+        "Self": [
+            "x1 to self",
+            "x2 to self",
+            "x3 to self"
+        ],
+        "Another Vanguard Character": [
+            "to another vanguard character"
+        ],
+        "Soul of Divine Protection": [
+            "to Soul of Divine Protection"
+        ],
+        "Soul of Secrets": [
+            "to Soul of Secrets"
+        ],
+        "Soul of Skills": [
+            "to Soul of Skills"
+        ]
+    },
+    "Soul Buff": {
+        "All Souls Gauges": [
+            "all souls' gauge",
+            "all souls gauge"
+        ],
+        "All Souls Protection Gauge": [
+            "all souls' protection gauge increase"
+        ],
+        "All Souls Secret Gauge": [
+            "all souls' secrets skill gauge increase"
+        ],
+        "Soul of Divine Protection Damage": [
+            "Soul of Divine Protection damage"
+        ],
+        "Soul of Divine Protection Gauge": [
+            "Soul of Divine Protection gauge"
+        ],
+        "Soul of Divine Protection Secret Gauges": [
+            "Soul of Divine Protection secret skill gauge"
+        ],
+        "Soul of Divine Protection Skill Point": [
+            "Soul of Divine Protection skill point"
+        ],
+        "Soul of Secrets Damage": [
+            "Soul of Secrets damage"
+        ],
+        "Soul of Secrets Gauge": [
+            "Soul of Secrets gauge"
+        ],
+        "Soul of Secrets Secret Gauges": [
+            "Soul of Secrets secret skill gauge"
+        ],
+        "Soul of Secrets Skill Point": [
+            "Soul of Secrets skill point increase"
+        ],
+        "Soul of Skills Damage": [
+            "Soul of Skills damage"
+        ],
+        "Soul of Skills Gauges": [
+            "Soul of Skills gauges' increase"
+        ],
+        "Soul of Skills Secret Gauge": [
+            "Soul of Skills' secret skill gauge increase"
+        ],
+        "Soul of Skills Skill Point": [
+            "Soul of Skills' skill point increase"
+        ]
+    },
+    "Gauge": {
+        "Secret Skill Gauge": [
+            "own secret skill gauge"
+        ],
+        "Protection Gauge": [
+            "increases protection gauge", "increase protection gauge", "increase the protection gauge", "increases the protection gauge"
+        ],
+        "Skill Points": [
+            "increases skill points", "increase skill points"
+        ]
+    },
+    "Buff All": {
+		"Damage": [
+			"Increases damage done"
+		],
+        "ATK": [
+            "all allies' ATK"
+        ],
+        "DEF": [
+            "all allies' DEF"
+        ],
+        "Max HP": [
+            "all allies' max HP"
+        ],
+
+        "Counter Power": [
+            "all allies' counter power"
+        ],
+        "Counterattack Resistance": [
+            "all allies' counterattack resistance"
+        ],
+        "Counterattack Rate": [
+            "allies' counterattack rate"
+        ],
+
+        "Critical Damage": [
+            "all allies' critical damage"
+        ],
+        "Critical Rate": [
+            "all allies' critical rate"
+        ],
+        "Critical Resistance": [
+            "all allies' critical resistance"
+        ],
+        
+        "Guard Penetration": [
+            "all allies' guard penetration"
+        ],
+        "Guard Power": [
+            "all allies' guard power"
+        ],
+        "Guard Rate": [
+            "all allies' guard rate"
+        ],
+
+        "Drago": [
+            "Chance to give Drago to all allies"
+        ],
+        
+        "Pierce Power": [
+            "all allies' pierce power"
+        ],
+        "Pierce Rate": [
+            "all allies' pierce rate"
+        ],
+        "Pierce Resistance": [
+            "all allies' pierce resistance"
+        ],
+
+        "Poison Evasion Rate": [
+            "all allies' poison evasion rate"
+        ],
+        "Stun Evasion Rate": [
+            "all allies' stun evasion rate"
+        ],
+        "Bind Evasion Rate": [
+            "all allies' bind evasion rate"
+        ],
+        "Soul of Combos": [
+            "activating Soul of Combos damage",
+            "Increases Soul of Combos damage"
+        ],
+
+        "Space ATK": [
+            "all allies' space ATK"
+        ],
+        "Light ATK": [
+            "all allies' light ATK"
+        ],
+        "Dark ATK": [
+            "all allies' dark ATK"
+        ],
+        "Earth ATK": [
+            "all allies' earth ATK"
+        ],
+        "Fire ATK": [
+            "all allies' fire ATK"
+        ],
+        "Water ATK": [
+            "all allies' water ATK"
+        ],
+        "Wind ATK": [
+            "all allies' wind ATK"
+        ],
+        "All Attribute Resistance": [
+            "all allies' all attribute resistance"
+        ],
+        "M-ATK": [
+            "all allies' M-ATK"
+        ],
+        "P-ATK": [
+            "all allies' P-ATK"
+        ]
+    },
+    "Buff Self": {
+        "ATK": [
+            "own ATK"
+        ],
+        "DEF": [
+            "own DEF"
+        ],
+        "Guard Rate": [
+            "own Guard Rate"
+        ],
+        "Guard Power": [
+            "own Guard Power"
+        ],
+        "All Attribute Resistance": [
+            "own all attribute resistance"
+        ],
+        "Counter Power": [
+            "own counter power"
+        ],
+        "Counterattack Rate": [
+            "own counterattack rate"
+        ],
+        "Counterattack Resistance": [
+            "own counterattack resistance"
+        ],
+        "Critical Damage": [
+            "own CRIT damage",
+            "own critical damage"
+        ],
+        "Critical Rate": [
+            "own CRIT rate",
+            "own critical rate"
+        ],
+        "Critical Resistance": [
+            "own CRIT resistance",
+            "own critical resistance"
+        ],
+        "Drago": [
+            "Chance to give Drago to self"
+        ],
+        "Guard Penetration": [
+            "own guard penetration"
+        ],
+        "M-ATK": [
+            "own M-ATK"
+        ],
+        "Pierce Power": [
+            "own pierce power"
+        ],
+        "Pierce Rate": [
+            "own pierce rate"
+        ],
+        "Pierce Resistance": [
+            "own pierce resistance"
+        ],
+        "Poison Evasion Rate": [
+            "own poison evasion rate"
+        ],
+        "Soul of Combos": [
+            "own Soul of Combos damage"
+        ],
+
+        "Max HP": [
+            "own max HP"
+        ],
+
+        "Stun Evasion Rate": [
+            "own stun evasion rate"
+        ],
+        "Bind Evasion Rate": [
+            "own bind evasion rate"
+        ],
+
+        "Space ATK": [
+            "own space ATK"
+        ],
+        "Light ATK": [
+            "own light ATK"
+        ],
+        "Dark ATK": [
+            "own dark ATK"
+        ],
+        "Earth ATK": [
+            "own earth ATK"
+        ],
+        "Fire ATK": [
+            "own fire ATK"
+        ],
+        "Water ATK": [
+            "own water ATK"
+        ],
+        "Wind ATK": [
+            "own wind ATK"
+        ],
+        "P-ATK": [
+            "own P-ATK"
+        ]
+    },
+    "Debuff All": {
+        "ATK": [
+            "all targets' ATK",
+            "all targets' attack"
+        ],
+        "Counterattack Rate": [
+            "all targets' counterattack rate"
+        ],
+        "Counterattack Resistance": [
+            "all targets' counterattack resistance"
+        ],
+        "Critical Damage": [
+            "all targets' critical damage"
+        ],
+        "Critical Rate": [
+            "all targets' critical rate"
+        ],
+        "Critical Resistance": [
+            "all targets' critical resistance"
+        ],
+        "DEF": [
+            "all targets' DEF",
+            "all targets' defense"
+        ],
+        "Dark Resistance": [
+            "all targets' dark resistance"
+        ],
+        "Earth Resistance": [
+            "all targets' earth resistance"
+        ],
+        "Fire Resistance": [
+            "all targets' fire resistance"
+        ],
+        "Guard Power": [
+            "all targets' guard power"
+        ],
+        "Guard Rate": [
+            "all targets' guard rate"
+        ],
+        "Light Resistance": [
+            "all targets' light resistance"
+        ],
+        "Pierce Power": [
+            "all targets' pierce power"
+        ],
+        "Pierce Resistance": [
+            "all targets' pierce resistance"
+        ],
+        "Seal ATK UP": [
+            "Chance to seal ATK UP on all"
+        ],
+        "Seal Critical Resistance UP": [
+            "Chance to seal Critical Resistance UP on all targets"
+        ],
+        "Seal DEF UP": [
+            "Chance to seal DEF UP on all"
+        ],
+        "Space Resistance": [
+            "all targets' space resistance"
+        ],
+        "Water Resistance": [
+            "all targets' water resistance"
+        ],
+        "Wind Resistance": [
+            "all targets' wind resistance"
+        ]
+    },
+    "Debuff Single": {
+        "ATK": [
+            "a single target's ATK"
+        ],
+        "Counterattack Rate": [
+            "single target's counterattack rate"
+        ],
+        "Counterattack Resistance": [
+            "a single targets' counterattack resistance"
+        ],
+        "Critical Damage": [
+            "single target's critical damage"
+        ],
+        "Critical Rate": [
+            "single target's critical rate"
+        ],
+        "Critical Resistance": [
+            "single target's critical resistance"
+        ],
+        "DEF": [
+            "a single target's DEF"
+        ],
+        "Guard Power": [
+            "a single target's guard power"
+        ],
+        "Guard Rate": [
+            "a single target's guard rate"
+        ],
+        "Magic Attack Resistance": [
+            "a single targets' magic attack resistance"
+        ],
+        "Physical Attack Resistance": [
+            "a single targets' physical attack resistance"
+        ],
+        "Pierce Resistance": [
+            "single target's pierce power"
+        ],
+        "Poison": [
+            "Chance to poison"
+        ],
+        "Stun": [
+            "Chance to stun"
+        ]
+    },
+    "Heal": {
+        "All Heal": [
+            "Heals all allies"
+        ],
+        "All Recover Poison": [
+            "Recovers all allies from Poison"
+        ],
+        "All Recover Stun": [
+            "Recovers all allies from Stun"
+        ],
+        "Heal Self": [
+            "Heals self"
+        ],
+        "Lowest Ally Heal": [
+            "Heals the ally with the lowest"
+        ]
+    }
+}

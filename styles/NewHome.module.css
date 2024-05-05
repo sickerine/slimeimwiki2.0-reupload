@@ -1,0 +1,25 @@
+.main {
+	padding: 0;
+	border: 0;
+	margin-top: 75px;
+	border-radius: 0;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	box-shadow: rgba(var(--color2), 0.25) 0px 0px 2px;
+
+}
+
+.homeTop {
+	height: 100px;
+	background-color: rgba(var(--color1), 0.65);
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 10px;
+}
+
+.characterShowcase {
+	width: 100%;
+	height: 50px;
+	background-color: rgba(var(--color2), 0.1);
+	border-radius: 5px;
+}
